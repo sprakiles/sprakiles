@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  Hey, I'm [Your Name]!
+  Hey, I'm sprakiles!
 </h1>
 
 <p align="center">
@@ -61,8 +61,8 @@ Beyond the web, I enjoy the logic of automation by building Discord bots, explor
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=sprakiles&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%"/>
 </p>
