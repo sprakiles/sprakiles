@@ -1,7 +1,6 @@
 <!--
-  Hey there! 👋
-  This is my digital space. I built it to showcase what I'm passionate about.
-  Feel free to get inspired!
+  Hello World! This is the v3 of my profile.
+  Accurately representing my skills as a Frontend Developer with a passion for automation.
 -->
 
 <h1 align="center">
@@ -10,59 +9,60 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Automation-blue?style=flat-square" alt="Focus">
+  <strong><font color="#61DAFB">Creative Frontend Developer</font> | <font color="#7289DA">Automation Scripter</font> | <font color="#A076F9">Security Hobbyist</font></strong>
 </p>
-
 <p align="center">
-  <strong><font color="#61DAFB">Creative Frontend Developer</font> | <font color="#7289DA">Bot Maker</font> | <font color="#ED8A1F">Minecraft Enthusiast</font></strong>
+  I build dynamic web experiences, automate tasks with bots, and explore the depths of software and game logic.
 </p>
 
 ---
 
-### 👋 About Me
+### 💻 My Tech Arsenal
 
-I'm a frontend developer passionate about building beautiful, functional, and user-centric web applications. I love bringing ideas to life in the browser.
+<br>
 
-Beyond the web, I enjoy the logic of automation by building Discord bots, exploring game mechanics in Minecraft, and occasionally diving into the world of reverse engineering.
-
----
-
-### 🎯 Current Focus
-
-- 💻 **Main Focus:** Mastering **React**, **Vue.js**, and building complex UIs with **TypeScript**.
-- ✨ **Exploring:** Creating fluid animations and interactive sites with **Framer Motion**.
-- 🤖 **Side Projects:**
-  - ○ Developing a new feature for my latest Discord bot.
-  - ○ Working on a custom Minecraft plugin for a private server.
-- 🤝 **Open to collaborate on:**
-  - ○ Innovative web applications using React or Vue.
-  - ○ Open-source frontend libraries.
-
----
-
-### 💻 My Core Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,vite,figma,framer&perline=5" />
-  </a>
+#### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### Also experienced with:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,discordjs,java,git,linux,ghidra" />
-  </a>
+#### 🤖 Bots & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js">
+</p>
+
+#### 🛡️ Reverse Engineering & Security (Learning)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java for RE & Minecraft">
+  <img src="https://img.shields.io/badge/Ghidra-4A4A4A?style=for-the-badge" alt="Ghidra">
+  <img src="https://img.shields.io/badge/Hydra-93221E?style=for-the-badge" alt="Hydra">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My Live GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=sprakiles&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%"/>
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="sprakiles' GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=tokyonight" alt="sprakiles' Top Languages" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://streak-stats.demolab.com?user=sprakiles&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sprakiles' GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
