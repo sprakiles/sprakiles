@@ -41,7 +41,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java for RE & Minecraft">
   <img src="https://img.shields.io/badge/Ghidra-4A4A4A?style=for-the-badge" alt="Ghidra">
-  <img src="https://img.shields.io/badge/Hydra-93221E?style=for-the-badge" alt="Hydra">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
