@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://streak-stats.demolab.com?user=sprakiles&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sprakiles' GitHub Streak" width="100%"/>
+        <img src="https://streak-stats.demolab.com?user=sprakiles&theme=vue-dark&hide_border=true" alt="sprakiles' GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
