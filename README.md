@@ -49,19 +49,17 @@
 ### 📊 My Live GitHub Dashboard
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600" alt="sprakiles' GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=3600" alt="sprakiles' Top Languages" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://streak-stats.demolab.com?user=sprakiles&theme=vue-dark&hide_border=true" alt="sprakiles' GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  
+&nbsp;
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sprakiles&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600" alt="sprakiles' GitHub Stats"/>
+  
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=3600" alt="sprakiles' Top Languages"/>
+  
+&nbsp;
+  
+<img src="https://streak-stats.demolab.com?user=sprakiles&theme=vue-dark&hide_border=true" alt="sprakiles' GitHub Streak"/>
+
 </div>
