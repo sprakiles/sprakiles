@@ -52,10 +52,10 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="sprakiles' GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&cache_seconds=3600" alt="sprakiles' GitHub Stats" width="100%"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=tokyonight" alt="sprakiles' Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=tokyonight&cache_seconds=3600" alt="sprakiles' Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
