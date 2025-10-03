@@ -52,15 +52,15 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sprakiles' GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sprakiles&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600" alt="sprakiles' GitHub Stats" width="100%"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=tokyonight&cache_seconds=3600" alt="sprakiles' Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakiles&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=3600" alt="sprakiles' Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://streak-stats.demolab.com?user=sprakiles&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sprakiles' GitHub Streak" width="100%"/>
+        <img src="https://streak-stats.demolab.com?user=sprakiles&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sprakiles' GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
