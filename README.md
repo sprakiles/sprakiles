@@ -107,11 +107,6 @@
 
 ---
 
-<div align="center">
-  <h3 align="center">📈 My Contribution Graph</h3>
-  <img src="https://github-contributions.vercel.app/api/v1/sprakiles" alt="sprakiles' Contribution Graph">
-</div>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sprakiles&style=flat-square&color=blueviolet" alt="Profile views">
