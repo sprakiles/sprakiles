@@ -107,10 +107,9 @@
 
 ---
 
-<!-- Animated Contribution Graph -->
 <div align="center">
-  <h3 align="center">🐍 My Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/sprakiles/sprakiles/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+  <h3 align="center">📈 My Contribution Graph</h3>
+  <img src="https://github-contributions.vercel.app/api/v1/sprakiles" alt="sprakiles' Contribution Graph">
 </div>
 
 <!-- Profile Views -->
