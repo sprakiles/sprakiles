@@ -42,7 +42,6 @@
     <li>🌱 I’m currently learning <strong>Advanced TypeScript and system design principles</strong>.</li>
     <li>👯 I’m looking to collaborate on <strong>open-source automation tools or Discord bots</strong>.</li>
     <li>💬 Ask me about <strong>React, Node.js, and web scraping</strong>.</li>
-    <li>📫 How to reach me: <strong>[YOUR_EMAIL@gmail.com]</strong></li>
     <li>⚡ Fun fact: <strong>I can solve a Rubik's cube in under a minute!</strong></li>
   </ul>
 </div>
